@@ -1,2 +1,2 @@
 # Final-year-project
-Mobile application- Car damage severe detection
+Mobile application-Car damage detection
